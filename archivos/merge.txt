@@ -1,0 +1,7 @@
+Julián Bedoya Palacio
+22 años
+Aspiraciones:
+-Tener la capacidad de desarrollar programas interesantes con los conocimientos ya adquiridos de la programación en python y los nuevos conceptos que se
+implementan en la programación orientada a objetos.
+-Identificar con qué paradigma de programación se debería abordar un determinado proyecto.
+-Fortalecer mis habilidades en el manejo de los lenguajes de programación Java y Python.
