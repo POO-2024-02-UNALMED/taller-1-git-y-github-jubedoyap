@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Julián Bedoya Palacio
 22 años
 Aspiraciones:
@@ -5,3 +6,14 @@ Aspiraciones:
 implementan en la programación orientada a objetos.
 -Identificar con qué paradigma de programación se debería abordar un determinado proyecto.
 -Fortalecer mis habilidades en el manejo de los lenguajes de programación Java y Python.
+
+
+=======
+Lo que sucedió con la carpeta archvivos, es que cuando se creó en el repositorio local y se intentó realizar el commit
+este no fue posible hacerlo, debido a que la carpeta estaba vacía y GitHub no permite realizar commits de carpetas vacías.
+>>>>>>> f76059d126a1d863f0e90dd97a97f0586c66c36b
+
+Es importante tener cuidado de modificar un archivo desde diferentes ubicaciones ya que los cambios que se
+realizen pueden generar conflicto con la información que se ya se encuentra cargada en el repositorio remoto
+si antes de realizar las respectivas modificaciones no se descargó el archivo que se encontraba en la web
+
