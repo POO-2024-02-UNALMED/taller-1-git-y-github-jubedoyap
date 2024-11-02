@@ -1,0 +1,1 @@
+En el punto 8 donde se creó la carpeta archivo, en la etiquta de "changes" esta última no se visualizó y no se pudo realizar el commit, debido a que GitHub no permite realizar commits de carpetas vacías
