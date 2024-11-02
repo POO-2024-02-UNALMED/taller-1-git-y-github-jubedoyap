@@ -1,0 +1,2 @@
+Lo que sucedió con la carpeta archvivos, es que cuando se creó en el repositorio local y se intentó realizar el commit
+este no fue posible hacerlo, debido a que la carpeta estaba vacía y GitHub no permite realizar commits de carpetas vacías
